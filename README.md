@@ -106,3 +106,29 @@
 - - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
 - - 2023.12.13 增加明珠台、CCTV4K、纯享4K，剔除无效咪咕直播源
 - - 2023.11.26 增加TVBOX直播链接
+ 
+## ⚙ 使用源方法- - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
+- - 如何直接下载 Github 上的某个文件？
+- - 有时候我们需要下载别人 GitHub 仓库的某一个文件，但是不得不 clone 整个项目，此时需要一种能直接下载某一个文件的方式。
+只需要更改一下 GitHub 文件 URL，就能实现单个下载功能。
+- - 假设 GitHub 文件的原 URL 是：
+https://github.com/DeppWang/Java-Books/blob/master/docs/Algorithms, 4th Edition.pdf
+- - 将其更改为：
+https://raw.githubusercontent.com/DeppWang/Java-Books/master/docs/Algorithms, 4th Edition.pdf
+即，将 github.com 替换为 raw.githubusercontent.com，并去除 /blob。
+这样就能直接下载这个 Algorithms, 4th Edition.pdf 文件了
+- - Github托管直播源打不开
+- - 地址前增加　https://mirror.ghproxy.com/　
+              　https://github.moeyy.xyz/　
+- - github代理地址： 
+
+https://github.moeyy.xyz/
+
+https://mirror.ghproxy.com/
+
+https://gh-proxy.com/ 
+
+https://ghproxy.net /
+
+
+
