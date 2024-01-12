@@ -14,7 +14,7 @@
 
 ---
 
-## 🏄‍♀️源地址:
+## 🎬源地址:
 
 <table>
   <thead>
@@ -65,7 +65,7 @@
   -  [https://github.com/Meroser/IPTV/blob/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
 - 📌Logo来源：
   -  [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
-- 📼关于TVBOX和DIYP上的EPG接口
+-🎬关于TVBOX和DIYP上的EPG接口
   - 直接填入https://epg.112114.xyz/?ch={name}&date={date} 
 
 ## 📖说明
@@ -79,7 +79,7 @@
 - ⭐本项目所有权归Merose所有，本人只负责搬运或收藏，不得商用。
 - ⭐不再回头   于2024年1月10日。
 
-## 📒频道列表
+## 🎬频道列表
 ### 📟央视高清/22个频道
 - CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育2台、中国教育3台、中国教育4台
 ### 📠卫视高清/28个频道
