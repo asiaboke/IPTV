@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td>📺无界直播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/main/7live.txt">https://raw.githubusercontent.com/asiaboke/IPTV/main/7live.txt</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/asiaboke/IPTV/main/wjlive.txt">https://raw.githubusercontent.com/asiaboke/IPTV/main/wjlive.txt</a></td>
       <td>待完善</td>
       <td>2024.1.29</td>
     </tr>
